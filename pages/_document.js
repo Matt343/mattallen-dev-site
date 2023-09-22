@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: "Matt Allen's thoughts",
     description: 'Assorted thoughts and musings on software, data, and problem solving.',
-    image: 'https://www.gravatar.com/avatar/675f3a1bc0147d3f21bf999eb0963138'
+    image: '/images/gravatar.png'
   }
 
   return (
